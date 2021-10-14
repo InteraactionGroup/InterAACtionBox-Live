@@ -7,7 +7,7 @@ Le fichier est disponible ici :
 
 ## Etape 2: Graver l'ISO téléchargé sur la clé USB
 
-Conseil : utiliser balenaEtcher (suite à refaire)
+Conseil : utiliser balenaEtcher (qui est multi-platerforme - mac, windows, linux - et simple à utiliser)
 
 ## Etape 3: inséré la clé USB dans l'ordinateur
 
@@ -86,11 +86,14 @@ Une fois l'installation terminée, une fenêtre va apparaître et vous demandera
 
 ![redemarrer](assets/tutorial/redemarrer.jpg)
 
-Au redémarrage, l'interAACtion box se lance automatiquement, il vous faudra aller dans "Mise à jour disponible !" en haut à gauche de l'écran.
+si l'utilisateur est "admin", le mot de passe est "localadmin"
+si l'utilisateur est "user", le mot de passe est "localuser"
+
+Une fois connecté, aller dans "Mise à jour disponible !" en haut à gauche de l'écran.
 
 ![interaaaction](assets/tutorial/interaactionBox.png)
 
-Sur cette page, vous devez appuyer sur "installer tous" pour avoir accès à toutes les applications.
+Sur cette page, appuyer sur "installer tous" pour avoir accès à toutes les applications.
 ![mise à jour](assets/tutorial/miseajour.png)
 
 ## Bug connu
