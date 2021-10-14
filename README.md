@@ -7,49 +7,7 @@ Le fichier est disponible ici :
 
 ## Etape 2: Graver l'ISO téléchargé sur la clé USB
 
-- Utiliser Startup Disk Creator sur Ubuntu
-
-Après avoir téléchargé startup Disk creator cette fenêtre apparait.
-
-![startup Disk creator](assets/tutorial/startupDiskCreator.png)
-
-Il faudra choisir le périphérique où graver l'ISO.<br>
-Puis aller sélectionner l'ISO à graver.
-
-![creator peripherique iso](assets/tutorial/creatorPeripheriqueIso.png)
-
-Au moment de graver l'ISO sur la clé USB, une fenêtre d'avertissement apparaîtra.
-
-![creator avertissement](assets/tutorial/fenetreDavertissement.png)
-
-Cliquer sur "oui".
-
-Après plusieurs minutes d'attente, cette fenêtre apparaîtra si tout s'est bien passé.
-
-![creator reussit](assets/tutorial/CreatorReussit.png)
-
-- Utiliser [Rufus](https://rufus.ie/fr/) sur Window (télécharger ici : https://rufus.ie/fr/)
-
-Il vous faudra choisir le périphérique où graver l'ISO. <br>
-Puis aller sélectionner l'ISO que à graver.
-
-![rufus peripherique ISO](assets/tutorial/rufusPeripheriqueISO.png)
-
-Lors du clique sur le bouton "démarrer" cette fenêtre apparaîtra.
-
-![rufus ISO hybrid](assets/tutorial/rufusISOHybrid.png)
-
-Laisser le choix recommandé puis appuyer sur "OK". <br>
-
-Il est possible que cette fenêtre s'ouvre.
-
-![rufus telechargement](assets/tutorial/rufusTelechargementAvertissement.png)
-
-Accepter en cliquant sur "Oui".<br>
-
-Si tout s'est bien passé, cette fenêtre apparaîtra.
-
-- Utiliser [mac tool](https://ipom.fr/2019/07/03/creer-windows-10-bootable-graver-un-fichier-iso-sur-usb-dvd-cd-sur-mac-os-x/) on Mac
+Conseil : utiliser balenaEtcher (suite à refaire)
 
 ## Etape 3: inséré la clé USB dans l'ordinateur
 
@@ -57,7 +15,7 @@ cf https://github.com/InteraactionGroup/InterAACtionBox pour voir l'ordinateur q
 
 ## Etape 4: boot sur la clé USB
 
-- 2 possibilités pour accéder au menu BIOS [BIOS menu](https://www.dell.com/support/kbdoc/fr-fr/000126121/acc%c3%a8s-%c3%a0-la-configuration-syst%c3%a8me-uefi-bios-sous-windows-sur-votre-syst%c3%a8me-dell#:~:text=Appuyez%20sur%20la%20touche%20F2%3E%20sur%20l'%C3%A9cran%20du%20logo,pendant%20le%20d%C3%A9marrage%20du%20syst%C3%A8me)
+presser F2 dès que le logo dell apparaît
 
 Une fois dans le menu BIOS.
 
