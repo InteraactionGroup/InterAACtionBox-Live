@@ -23,14 +23,19 @@ L'écran suivant s'ouvre :
 
 <img width="868" alt="Capture d’écran 2021-10-15 à 19 11 52" src="https://user-images.githubusercontent.com/23239584/137526990-314bfd93-5f6b-4c74-a5ed-a43015f8227e.png">
 
-Choisir
+Appuyez sur "+", une fenêtre s'ouvre. Choisir l'iso téléchargé.
 
 <img width="912" alt="Capture d’écran 2021-10-15 à 19 12 23" src="https://user-images.githubusercontent.com/23239584/137527021-3b7c5dc8-99a5-4f89-9045-d5b06b99c335.png">
 
+Appuyez sur "select", une fenêtre s'ouvre. 
+
 <img width="912" alt="Capture d’écran 2021-10-15 à 19 12 34" src="https://user-images.githubusercontent.com/23239584/137527032-34150af6-e57d-47c8-b020-a88b22a725d2.png">
+
+Sélectionner votre clé USB dans la liste.
 
 <img width="912" alt="Capture d’écran 2021-10-15 à 19 12 40" src="https://user-images.githubusercontent.com/23239584/137527042-aae78a2f-6d1f-4c86-9520-a974e7dfa59b.png">
 
+Cliquer sur "flash".
 
 ## Etape 3: inséré la clé USB dans l'ordinateur
 
