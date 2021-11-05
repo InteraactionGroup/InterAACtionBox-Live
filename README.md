@@ -112,7 +112,7 @@ Ubuntu va s'installer veuillez attendre.
 
 Une fois l'installation terminée, une fenêtre va apparaître et vous demandera de redémarrer, appuyez sur "redémarrer maintenant".
 
-![redemarrer](assets/tutorial/redemarrer.jpg)
+![redemarrer](assets/tutorial/redemarrer.png)
 
 si l'utilisateur est "admin", le mot de passe est "localadmin"
 si l'utilisateur est "user", le mot de passe est "localuser"
