@@ -3,7 +3,7 @@
 ## Etape 1: Téléchargement de l'ISO
 
 Le fichier est disponible ici :
-- https://www.swisstransfer.com/d/c23b9b4e-9fb4-4840-a6ad-7f6ad45e56c5
+- https://www.swisstransfer.com/d/07319c22-71fe-4b20-8e50-834daf2ff31f
 
 ## Etape 2: Graver l'ISO téléchargé sur la clé USB
 
